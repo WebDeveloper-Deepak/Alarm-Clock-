@@ -1,6 +1,4 @@
-# AlarmClock-SkillTest-Project
-
-![AlarmClock SkillTest Project - Google Chrome 2022-10-18 19-10-30](https://user-images.githubusercontent.com/86143301/196457822-c7ee675e-96a0-4e56-ab1d-9378cde94564.gif)
+# AlarmClock-SkillTest-Projec
 
 **Features**
 * Analog Clock
@@ -23,7 +21,7 @@
     
     
 **How To Use**
-  * To Use this alarm click the link https://wakininja.github.io/AlarmClock-SkillTest-Project/ to see this alarm live & play with it simple :)
+  * To Use this alarm click the link to see this alarm live & play with it simple :)
   
   
 **Web Technologies Used**
@@ -32,14 +30,9 @@
 * JavaScript
   
   
-**Credits**
-* VS code Editor
-* W3 School
-* Stack Over Flow
-* Github search.
 
-**You May Also like the**
-* Music Player - https://wakininja.github.io/music_Player_project/
+
+
 
 
 
