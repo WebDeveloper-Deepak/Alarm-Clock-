@@ -21,7 +21,7 @@
     
     
 **How To Use**
-  * To Use this alarm click the link https://deepak-75056.github.io/Alarm-Clock-/ to see this alarm live & play with it simple :)
+  * To Use this alarm click the link https://WebDeveloper-Deepak.github.io/Alarm-Clock-/ to see this alarm live & play with it simple :)
   
   
 **Web Technologies Used**
